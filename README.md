@@ -1,4 +1,4 @@
-### FULL STACK DEVELOPER IN PROGRES 👋
+### Hola, my name ís JOSEP TARRÉS TONEU 👋
 <img src="https://static.videezy.com/system/resources/thumbnails/000/022/278/original/thumbnail.jpg" alt="FSWD" />
 
 <!-- 
