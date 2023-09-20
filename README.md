@@ -1,6 +1,6 @@
-### Hi, my name is JOSEP TARRÉS TONEU 👋
-<img src="https://static.videezy.com/system/resources/thumbnails/000/022/278/original/thumbnail.jpg" alt="FSWD" />
-
+# Hi, my name is JOSEP TARRÉS TONEU 👋
+## I'm a Full Stack Web Developer in progres
+<img src="https://static.videezy.com/system/resources/thumbnails/000/022/278/original/thumbnail.jpg" alt="FSWD" />    
 <!-- 
 Here are some ideas to get you started:
 
