@@ -1,7 +1,7 @@
 ### FULL STACK DEVELOPER IN PROGRES 👋
 <div>
 <p style = 'text-align:center;'>
-<img src="https://pbs.twimg.com/media/EiAAHfoU4AADis4?format=jpg&name=small" alt="JuveYell" width="300px">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.opencodez.com%2Fhow-to-guide%2Ffull-stack-developer.htm&psig=AOvVaw2OxdsqhMaVmLDcrP0qeW8i&ust=1695313139850000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICzutzLuYEDFQAAAAAdAAAAABAE" width="100%">
 </p>
 </div>
 <!--
