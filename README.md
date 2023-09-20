@@ -1,4 +1,4 @@
-### Hola, my name ís JOSEP TARRÉS TONEU 👋
+### Hi, my name is JOSEP TARRÉS TONEU 👋
 <img src="https://static.videezy.com/system/resources/thumbnails/000/022/278/original/thumbnail.jpg" alt="FSWD" />
 
 <!-- 
