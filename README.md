@@ -1,9 +1,5 @@
 ### FULL STACK DEVELOPER IN PROGRES 👋
-<div>
-<p style = 'text-align:center;'>
-<img src="https://www.opencodez.com/wp-content/uploads/2019/10/Full-Stack-Developer.jpeg" alt="JuveYell" width="100%" style='border:0px'>
-</p>
-</div>
+<img style="border: 5px solid red;" src="https://www.opencodez.com/wp-content/uploads/2019/10/Full-Stack-Developer.jpeg" alt="FSWD" />
 <!--
 **joseptarrestoneu/joseptarrestoneu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
