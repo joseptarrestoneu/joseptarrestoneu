@@ -1,10 +1,37 @@
 ## Hi, mi nombre es JOSEP TARRÉS TONEU 👋
-
 Full Stack Web Developer in progres
 
 <img src="https://static.videezy.com/system/resources/thumbnails/000/022/278/original/thumbnail.jpg" alt="FSWD" />    
 
-## Skills
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+
+<br/>
+
+<h3> 👨🏻‍💻 &nbsp;Skills</h3>
+
 * HTML/CSS: Conocimiento profundo de HTML y CSS para crear y estilizar páginas web.
 * JavaScript: Habilidad con JavaScript para la interacción de usuario y desarrollo de funcionalidades del lado del cliente.
 * Frameworks de JavaScript: Familiaridad con frameworks como React para el desarrollo frontend.
@@ -14,7 +41,8 @@ Full Stack Web Developer in progres
 * Control de versiones: Conocimiento de sistemas de control de versiones como Git i GitHub para gestionar el código fuente.
 * Desarrollo responsivo: Habilidad para crear páginas web responsivas que se ajusten a diferentes dispositivos y resoluciones.
 
-## Soft Skills
+<h3> 🌱 &nbsp;Soft Skills</h3>
+
 * Comunicación efectiva: Soy capaz de expresar mis ideas de manera clara y concisa, y soy un buen oyente para entender las necesidades y requisitos del equipo y los clientes.
 * Trabajo en equipo: Se colaborar de manera efectiva con otros miembros del equipo de desarrollo, diseñadores, gerentes y otros departamentos para lograr objetivos comunes.
 * Pensamiento crítico: tengo habilidad para analizar problemas, identificar soluciones efectivas y tomar decisiones informadas en el desarrollo de software.
@@ -26,21 +54,10 @@ Full Stack Web Developer in progres
 * Habilidades de organización: Busco mantener un código limpio y bien organizado para facilitar el mantenimiento y la colaboración con otros desarrolladores.
 * Aprendizaje continuo: Estay dispuesto a seguir aprendiendo y mantenerse actualizado con las últimas tendencias y tecnologías en desarrollo web.
 
-## Contact
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-- Discord: terraco.
-- Email: joseptarrestoneu@gmail.com
-- Twitter: @joseptarres
-
-<!-- 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://www.linkedin.com/in/josep-tarrés-toneu-63003040/"><img alt="Instagram" src="https://img.shields.io/badge/LinkedIn-Josep Tarrés-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.instagram.com/joseptarres/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-joseptarres-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:joseptarrestoneu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-joseptarrestoneu@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
