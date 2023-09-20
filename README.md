@@ -1,7 +1,5 @@
 ### FULL STACK DEVELOPER IN PROGRES 👋
-<img style="border: 5px solid red;" src="https://www.opencodez.com/wp-content/uploads/2019/10/Full-Stack-Developer.jpeg" alt="FSWD" />
-<!--
-**joseptarrestoneu/joseptarrestoneu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://static.videezy.com/system/resources/thumbnails/000/022/278/original/thumbnail.jpg" alt="FSWD" />
 
 Here are some ideas to get you started:
 
