@@ -1,7 +1,7 @@
 ### FULL STACK DEVELOPER IN PROGRES 👋
 <div>
 <p style = 'text-align:center;'>
-<img src="https://www.opencodez.com/wp-content/uploads/2019/10/Full-Stack-Developer.jpeg" alt="JuveYell" width="100%">
+<img src="https://www.opencodez.com/wp-content/uploads/2019/10/Full-Stack-Developer.jpeg" alt="JuveYell" width="100%" border="0">
 </p>
 </div>
 <!--
