@@ -1,6 +1,7 @@
 ### FULL STACK DEVELOPER IN PROGRES 👋
 <img src="https://static.videezy.com/system/resources/thumbnails/000/022/278/original/thumbnail.jpg" alt="FSWD" />
 
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
