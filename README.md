@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/116755784/269394013-dc3db803-a77e-409e-9d38-290802b9fdb2.png" alt="FSWD" />    
+![Sin título-1 (1)](https://github.com/joseptarrestoneu/joseptarrestoneu/assets/116755784/f5dcf39e-1b37-4ab6-a943-57e442eadc24)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
