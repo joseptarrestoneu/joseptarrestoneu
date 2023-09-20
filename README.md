@@ -1,7 +1,4 @@
-## Hi, mi nombre es JOSEP TARRÉS TONEU 👋
-Full Stack Web Developer in progres
-
-<img src="https://static.videezy.com/system/resources/thumbnails/000/022/278/original/thumbnail.jpg" alt="FSWD" />    
+<img src="https://user-images.githubusercontent.com/116755784/269394013-dc3db803-a77e-409e-9d38-290802b9fdb2.png" alt="FSWD" />    
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
