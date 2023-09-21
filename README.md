@@ -29,7 +29,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;Skills</h3>
 
-* HTML/CSS: Conocimiento profundo de HTML y CSS para crear y estilizar páginas web.
+* HTML/CSS: Conocimiento de HTML y CSS para crear y estilizar páginas web.
 * JavaScript: Habilidad con JavaScript para la interacción de usuario y desarrollo de funcionalidades del lado del cliente.
 * Frameworks de JavaScript: Familiaridad con frameworks como React para el desarrollo frontend.
 * Desarrollo Backend: Conocimiento básico de un lenguaje de programación como Node.js para desarrollar la parte backend.
