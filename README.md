@@ -36,7 +36,6 @@
 * Bases de datos: Comprender las bases de datos y cómo interactuar con ellas, incluyendo SQL y NoSQL como MongoDB o MySQL.
 * APIs: Capacidad para crear y consumir APIs para la integración de datos.
 * Control de versiones: Conocimiento de sistemas de control de versiones como Git i GitHub para gestionar el código fuente.
-* Desarrollo responsivo: Habilidad para crear páginas web responsivas que se ajusten a diferentes dispositivos y resoluciones.
 
 <h3> 🌱 &nbsp;Soft Skills</h3>
 
