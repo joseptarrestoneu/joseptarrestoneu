@@ -1,4 +1,4 @@
-![Sin título-1 (1)](https://github.com/joseptarrestoneu/joseptarrestoneu/assets/116755784/f5dcf39e-1b37-4ab6-a943-57e442eadc24)
+![image](https://github.com/joseptarrestoneu/joseptarrestoneu/assets/116755784/b4e644f9-2b14-41de-bc89-86bc3a27ed25)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
