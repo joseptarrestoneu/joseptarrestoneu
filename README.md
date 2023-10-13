@@ -1,4 +1,4 @@
-![image](https://github.com/joseptarrestoneu/joseptarrestoneu/assets/116755784/b4e644f9-2b14-41de-bc89-86bc3a27ed25)
+![newMe](https://github.com/joseptarrestoneu/joseptarrestoneu/assets/116755784/ed59ea18-3d42-4d10-a85b-606a552404c8)
 
 <h3> 🛠 &nbsp;Tech Stack - in process </h3>
 
