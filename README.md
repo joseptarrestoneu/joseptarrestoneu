@@ -1,5 +1,5 @@
 ![Personal Banner-1](https://github.com/joseptarrestoneu/joseptarrestoneu/assets/116755784/0bf7054c-73e7-42c9-8315-d9a20330f8bf)
-![Personal Banner-1](https://github.com/joseptarrestoneu/joseptarrestoneu/issues/5#issue-6274493977)
+![Personal Banner-1](https://github.com/joseptarrestoneu/joseptarrestoneu/assets/116755784/699044173-4725b310-1e4c-4c74-9f10-9a183427e9fb)
 
 
 <h3> 🛠 &nbsp;Tech Stack - in process </h3>
