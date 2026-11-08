@@ -1,4 +1,3 @@
-![Personal Banner-1](https://github.com/joseptarrestoneu/joseptarrestoneu/assets/116755784/0bf7054c-73e7-42c9-8315-d9a20330f8bf)
 ![Personal Banner-1](https://github.com/joseptarrestoneu/joseptarrestoneu/assets/116755784/4725b310-1e4c-4c74-9f10-9a183427e9fb)
 
 
